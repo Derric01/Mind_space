@@ -1,2 +1,2 @@
 # Mind_space
-this will be developed eventually!!
+this will be developed eventually!
